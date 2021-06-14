@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GAP-Mobile</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="acceder">Iniciar Sesión</string>
+    <string name="recuperar">¿Olvido su contraseña? Click Aquí</string>
+    <string name="perfil">Mi perfil</string>
+    <string name="empresa">Empresa</string>
+</resources>
